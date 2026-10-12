@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://plain-weur-prod-public.komododecks.com/202610/12/NeVCmoQcWC7eCdhqXuCn/image.jpg">
+</p>
+
+
 # Sentrys
 
 Sentrys is a terminal-based reconnaissance toolkit written in Python. It probes
